@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksplitting_sample=self.webpackChunksplitting_sample||[]).push([[154],{154:(e,s,t)=>{function l(){alert("\ud560\ub85c~")}t.r(s),t.d(s,{default:()=>l})}}]);
+//# sourceMappingURL=154.c5fe2b64.chunk.js.map
